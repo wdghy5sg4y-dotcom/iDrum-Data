@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T00:00:00Z",
+  "updatedAt": "2026-11-08T01:25:00Z",
   "packages": [
     {
+      "id": "hotel-pop-ballad-v1",
       "type": "style",
       "name": "Hotel",
       "description": "Pop Ballad Style · 4/4 · 75 BPM",
