@@ -9,18 +9,8 @@
       "sha256" : "8a282913b4e16234a3d196dda3efa8eeb520c90d274e8076525cae9455da196b",
       "type" : "style",
       "version" : "1.0"
-    },
-    {
-      "description" : "Blues Style",
-      "downloadURL" : "https://raw.githubusercontent.com/wdghy5sg4y-dotcom/iDrum-Data/main/Blues.style",
-      "fileSize" : 65867,
-      "id" : "blues-v1",
-      "name" : "Blues",
-      "sha256" : "6a5a1f281e471e5b1e9997558b9c2e248aa9148f7f436beb6fd6fda5e8fa42b8",
-      "type" : "style",
-      "version" : "1.0"
     }
   ],
   "schemaVersion" : 1,
-  "updatedAt" : "2026-11-24T03:04:52Z"
+  "updatedAt" : "2026-11-24T03:18:04Z"
 }
