@@ -29,8 +29,18 @@
       "sha256" : "84a5e290d7fbf06e4834eedb5046d958e92d3ad4c2a3aee35b171f9bd585dfd3",
       "type" : "style",
       "version" : "1.0"
+    },
+    {
+      "description" : "Funk Style",
+      "downloadURL" : "https://raw.githubusercontent.com/wdghy5sg4y-dotcom/iDrum-Data/main/Funk.style",
+      "fileSize" : 101923,
+      "id" : "funk-v1",
+      "name" : "Funk",
+      "sha256" : "d0d2d388e682244426f1d39d1ad41170da760e9db05eadd0359b16d065451b8a",
+      "type" : "style",
+      "version" : "1.0"
     }
   ],
   "schemaVersion" : 1,
-  "updatedAt" : "2026-11-24T06:48:09Z"
+  "updatedAt" : "2026-11-24T07:54:04Z"
 }
