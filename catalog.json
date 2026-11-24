@@ -1,26 +1,16 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-11-23T07:22:13Z",
-  "packages": [
+  "packages" : [
     {
-      "id": "hotel-pop-ballad-v1",
-      "type": "style",
-      "name": "Hotel",
-      "description": "Pop Ballad Style · 4/4 · 75 BPM",
-      "version": "1.0",
-      "downloadURL": "https://raw.githubusercontent.com/wdghy5sg4y-dotcom/iDrum-Data/main/Hotel.style",
-      "sha256": "8a282913b4e16234a3d196dda3efa8eeb520c90d274e8076525cae9455da196b",
-      "fileSize": 60066
-    },
-    {
-      "id": "blues-v1",
-      "type": "style",
-      "name": "Blues",
-      "description": "Blues Style · 4/4 · 100 BPM",
-      "version": "1.0",
-      "downloadURL": "https://raw.githubusercontent.com/wdghy5sg4y-dotcom/iDrum-Data/main/Blues.style",
-      "sha256": "6a5a1f281e471e5b1e9997558b9c2e248aa9148f7f436beb6fd6fda5e8fa42b8",
-      "fileSize": 65867
+      "description" : "Pop Ballad Style · 4/4 · 75 BPM",
+      "downloadURL" : "https://raw.githubusercontent.com/wdghy5sg4y-dotcom/iDrum-Data/main/Hotel.style",
+      "fileSize" : 60066,
+      "id" : "hotel-pop-ballad-v1",
+      "name" : "Hotel",
+      "sha256" : "8a282913b4e16234a3d196dda3efa8eeb520c90d274e8076525cae9455da196b",
+      "type" : "style",
+      "version" : "1.0"
     }
-  ]
+  ],
+  "schemaVersion" : 1,
+  "updatedAt" : "2026-11-24T02:03:47Z"
 }
