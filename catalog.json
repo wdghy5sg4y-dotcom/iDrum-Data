@@ -49,8 +49,18 @@
       "sha256" : "aa55b1bfecd5aee19d61e05e4c8324f818106e969c0c37f474b3a1007d02885b",
       "type" : "style",
       "version" : "1.0"
+    },
+    {
+      "description" : "Tango Style",
+      "downloadURL" : "https://raw.githubusercontent.com/wdghy5sg4y-dotcom/iDrum-Data/main/Tango.style",
+      "fileSize" : 39243,
+      "id" : "tango-v1",
+      "name" : "Tango",
+      "sha256" : "9ae17edba1efe79c9fcbf6f6437385c0b9a2fa996f8763bc5ff601d8016b870e",
+      "type" : "style",
+      "version" : "1.0"
     }
   ],
   "schemaVersion" : 1,
-  "updatedAt" : "2026-11-28T04:36:22Z"
+  "updatedAt" : "2026-11-28T05:17:25Z"
 }

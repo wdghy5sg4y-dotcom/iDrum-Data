@@ -1,0 +1,1513 @@
+{
+  "draft" : {
+    "bassPatterns" : [
+      "fillB",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "breakPart",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "mainB",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "ending",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "intro",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "fillA",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "mainA",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      }
+    ],
+    "kitID" : 1,
+    "meter" : "4\/4",
+    "name" : "Tango",
+    "patterns" : [
+      "mainA",
+      {
+        "bars" : 4,
+        "notes" : [
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "DF0A23D9-5816-4956-9E9D-8670284175B5",
+            "note" : 36,
+            "tick" : 1924,
+            "velocity" : 89
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "2EA9B93D-B7DF-4955-8311-310B376DB52D",
+            "note" : 38,
+            "tick" : 1924,
+            "velocity" : 59
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "68F875DD-AF7C-4055-A128-9D5A7F301D3D",
+            "note" : 36,
+            "tick" : 2402,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "41B2B85D-DD3B-4394-8361-DD726CE58F96",
+            "note" : 38,
+            "tick" : 2402,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "7857E65B-9A86-40E2-97A4-EC2D9E53D75B",
+            "note" : 36,
+            "tick" : 2884,
+            "velocity" : 94
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "79750525-08A6-44EA-8137-7C592068E066",
+            "note" : 38,
+            "tick" : 2884,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "747440CC-082C-47FF-A500-C9E5E12A89F6",
+            "note" : 36,
+            "tick" : 3365,
+            "velocity" : 81
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "7970BAA7-0839-438F-9795-6D3D5D6198DD",
+            "note" : 38,
+            "tick" : 3365,
+            "velocity" : 55
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "EF815427-AE83-487A-A9F6-E78A69242438",
+            "note" : 38,
+            "tick" : 3599,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "FC4A8050-C3E9-4ACD-99F3-8F0C8847E708",
+            "note" : 38,
+            "tick" : 3640,
+            "velocity" : 43
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "E4895337-40B2-4FCE-AB39-D4525F82FB30",
+            "note" : 38,
+            "tick" : 3678,
+            "velocity" : 33
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0AD3F5DD-225E-4846-B425-1B3D2F78F9C0",
+            "note" : 38,
+            "tick" : 3714,
+            "velocity" : 37
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "263547AA-587D-4BA8-AE22-52A4C2EAF74D",
+            "note" : 38,
+            "tick" : 3856,
+            "velocity" : 57
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "26A2745C-A903-4645-9487-8BD978E2752D",
+            "note" : 36,
+            "tick" : 3859,
+            "velocity" : 96
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "949C122C-F950-458B-86F0-3F1F3DF4608D",
+            "note" : 36,
+            "tick" : 4328,
+            "velocity" : 98
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "A16CF950-F985-4D71-811F-7CDF3774F1C1",
+            "note" : 38,
+            "tick" : 4328,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "8C6B02FF-8689-4D84-9E3B-E97A350EBE4D",
+            "note" : 36,
+            "tick" : 4803,
+            "velocity" : 98
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "EE4B5F38-ADB9-4433-9C3C-6054B54CA708",
+            "note" : 38,
+            "tick" : 4803,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "06F1FBBA-1329-4A3E-A006-715E38FC3747",
+            "note" : 36,
+            "tick" : 5273,
+            "velocity" : 94
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "F9484D32-E128-4550-9795-6B26EBDA478B",
+            "note" : 38,
+            "tick" : 5273,
+            "velocity" : 61
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "39A8242C-C25E-4473-971E-60742BFF0992",
+            "note" : 38,
+            "tick" : 5507,
+            "velocity" : 29
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "29D9B56E-4CB3-4C17-A435-0982B9FB3810",
+            "note" : 38,
+            "tick" : 5570,
+            "velocity" : 24
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "2A2CDA81-5728-44A4-9021-A37FB2B8BCB3",
+            "note" : 38,
+            "tick" : 5636,
+            "velocity" : 27
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "ED16670F-7A2D-4D31-95F5-2429D63BB3FC",
+            "note" : 38,
+            "tick" : 5691,
+            "velocity" : 32
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "B7BDA1AA-D064-419A-9706-B19AECEFE293",
+            "note" : 36,
+            "tick" : 5751,
+            "velocity" : 91
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "41A1EFCE-C429-4ADF-AD32-D379BE48897F",
+            "note" : 38,
+            "tick" : 5751,
+            "velocity" : 55
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "4B499DF8-5588-4172-BE32-BB7D2EF56DF9",
+            "note" : 36,
+            "tick" : 6236,
+            "velocity" : 88
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "ECC87D8E-C205-4895-9AD8-399AD3FCF551",
+            "note" : 38,
+            "tick" : 6236,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0C0FA549-455F-4FF7-BD1D-EF6A6D6C5684",
+            "note" : 36,
+            "tick" : 6718,
+            "velocity" : 90
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "55AA5273-6DB6-48C8-B071-C037565C67B1",
+            "note" : 38,
+            "tick" : 6718,
+            "velocity" : 63
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "EA6624BA-8176-41E2-ACD6-D5037D953719",
+            "note" : 36,
+            "tick" : 7209,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "B22921FD-D60F-4E02-B856-51021940712D",
+            "note" : 38,
+            "tick" : 7209,
+            "velocity" : 63
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "01FACDC1-9189-4DA5-A722-BB9E171F20F3",
+            "note" : 38,
+            "tick" : 7445,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "B1FE247D-9203-441F-A8A2-A9E48C7A024B",
+            "note" : 38,
+            "tick" : 7482,
+            "velocity" : 51
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "FD9F6A87-087D-4A3B-85E9-22F6DFDDA130",
+            "note" : 38,
+            "tick" : 7517,
+            "velocity" : 46
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "439A0C06-76A8-4830-92C8-05E30B0B0853",
+            "note" : 38,
+            "tick" : 7555,
+            "velocity" : 45
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "649D80F9-C7DE-4547-A093-63D78493B253",
+            "note" : 36,
+            "tick" : 4,
+            "velocity" : 89
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "AEF51582-1FB4-45AA-AD9F-890529FB52AD",
+            "note" : 38,
+            "tick" : 4,
+            "velocity" : 59
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "808752EE-6E9F-4DAE-A8BE-98EE7659A9B6",
+            "note" : 36,
+            "tick" : 482,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "9B78A3A6-4BFA-4189-A305-5F970338EFF4",
+            "note" : 38,
+            "tick" : 482,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "243AFA9E-7986-4001-BCDF-9671E6ED5D5A",
+            "note" : 36,
+            "tick" : 964,
+            "velocity" : 94
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "3785D539-D0BC-4645-8D44-3DA0AF318D42",
+            "note" : 38,
+            "tick" : 964,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "13EC6853-75B6-4723-949C-C94295C46F31",
+            "note" : 36,
+            "tick" : 1445,
+            "velocity" : 81
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "DF71DE84-19C5-429D-A157-CA5FD6B9FB07",
+            "note" : 38,
+            "tick" : 1445,
+            "velocity" : 55
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "720B248C-6255-4D95-B229-73DA1BCE85B8",
+            "note" : 38,
+            "tick" : 1679,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "A581A79C-7DAE-479F-A306-4D968724B0B9",
+            "note" : 38,
+            "tick" : 1720,
+            "velocity" : 43
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "82C76074-31D9-4C7F-BEC5-ACF73190663F",
+            "note" : 38,
+            "tick" : 1758,
+            "velocity" : 33
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0FC00754-4051-412B-A097-81260ECE75BF",
+            "note" : 38,
+            "tick" : 1794,
+            "velocity" : 37
+          }
+        ],
+        "sourceName" : "MAIN A.mid"
+      },
+      "mainB",
+      {
+        "bars" : 4,
+        "notes" : [
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "DF152FF8-41B3-4CDD-B3DF-781ECD194E55",
+            "note" : 46,
+            "tick" : 1924,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "C1B5B1BF-BC6F-448D-A059-DEBD110A68C4",
+            "note" : 36,
+            "tick" : 1924,
+            "velocity" : 89
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "DCF26481-1C96-46CB-8FDD-52A2064F266E",
+            "note" : 38,
+            "tick" : 1924,
+            "velocity" : 59
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "8CE71B70-0D18-4AFB-B1C6-60E1F0B9A6E7",
+            "note" : 46,
+            "tick" : 2400,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "B7BCE46E-9BC1-4820-BE84-AE80E1F9A2A8",
+            "note" : 36,
+            "tick" : 2402,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0499B7FE-84D4-464A-BCBD-5AD2725DECBD",
+            "note" : 38,
+            "tick" : 2402,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "3F7D9F14-4EAD-4AFB-8D99-0CB5BD25ED08",
+            "note" : 36,
+            "tick" : 2884,
+            "velocity" : 94
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "48044B74-0C2A-4F70-BAC4-3081179792B5",
+            "note" : 38,
+            "tick" : 2884,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0F6AC41C-50F4-4900-BC90-76A2A89C318C",
+            "note" : 46,
+            "tick" : 2884,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "F173B6BE-6659-42C4-943C-E30B8BDED432",
+            "note" : 46,
+            "tick" : 3360,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "9E5FE01F-298F-496C-B2E3-588AD41B0D9B",
+            "note" : 36,
+            "tick" : 3365,
+            "velocity" : 81
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0A166E02-FCEC-4607-9811-1A8E2AE7FE23",
+            "note" : 38,
+            "tick" : 3365,
+            "velocity" : 55
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0FED3060-8BCB-44D8-B392-305C44DE388B",
+            "note" : 38,
+            "tick" : 3599,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "40FB4844-526B-4B89-84FE-D3409192A703",
+            "note" : 38,
+            "tick" : 3640,
+            "velocity" : 43
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "40CEC80F-F27F-4F75-8E63-0328CE3D1B5A",
+            "note" : 38,
+            "tick" : 3678,
+            "velocity" : 36
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "45C82669-A856-4F0B-B2CF-CB7D560492FB",
+            "note" : 38,
+            "tick" : 3714,
+            "velocity" : 37
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "8CB92378-E4C3-4499-B821-2B027BBB06F3",
+            "note" : 38,
+            "tick" : 3745,
+            "velocity" : 28
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "4E4AD02C-FBAE-481A-9C6A-D68D91AB1B4D",
+            "note" : 38,
+            "tick" : 3856,
+            "velocity" : 57
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "4C50CCEF-ADDC-4892-A016-C9EC8CFB70C1",
+            "note" : 46,
+            "tick" : 3856,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "C170309A-3F41-46F8-9309-71EFCF6B3A15",
+            "note" : 36,
+            "tick" : 3859,
+            "velocity" : 96
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "9B6142FF-386E-462B-A3EC-D373BDF4B677",
+            "note" : 46,
+            "tick" : 4320,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "F3FA792A-FDB3-495F-9F15-7D558CC7D621",
+            "note" : 36,
+            "tick" : 4328,
+            "velocity" : 98
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "704314C1-758E-4C51-83B2-664A8A5CBE83",
+            "note" : 38,
+            "tick" : 4328,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "2AAD73BE-E54E-4407-945C-0391A500109B",
+            "note" : 36,
+            "tick" : 4803,
+            "velocity" : 98
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "1BEAEEB4-602B-427D-9AEA-DC6DFE7E7BB9",
+            "note" : 38,
+            "tick" : 4803,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "D72B3FBD-036B-438E-856D-E2A82E854945",
+            "note" : 46,
+            "tick" : 4803,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "FE96FB2A-8030-4E95-8B51-7DA1120B392B",
+            "note" : 36,
+            "tick" : 5273,
+            "velocity" : 94
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "10C02513-7F6E-4290-BCF2-F0941A649412",
+            "note" : 38,
+            "tick" : 5273,
+            "velocity" : 61
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "623790CA-55E0-4B3D-8070-A049606750F8",
+            "note" : 46,
+            "tick" : 5280,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "997D781F-965D-484C-876D-F08EC5981043",
+            "note" : 38,
+            "tick" : 5507,
+            "velocity" : 29
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "0FB9BC8B-82FB-40AB-A817-17B4D4A1823B",
+            "note" : 38,
+            "tick" : 5570,
+            "velocity" : 24
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "A97A417C-DEA1-44D0-8FA9-574EFD0612A9",
+            "note" : 38,
+            "tick" : 5636,
+            "velocity" : 27
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "D847AF61-B37B-4AB7-8E34-52047843902F",
+            "note" : 38,
+            "tick" : 5691,
+            "velocity" : 32
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "3AA716C5-30A1-4318-805C-75337B866F92",
+            "note" : 36,
+            "tick" : 5751,
+            "velocity" : 91
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "19B003F1-7D33-4F4B-AC13-E45C65ED759C",
+            "note" : 38,
+            "tick" : 5751,
+            "velocity" : 55
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "BE7CAC6E-B741-446D-9B97-2100FD0EB2CD",
+            "note" : 46,
+            "tick" : 5760,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "3E76AFA3-0212-4F14-AA9A-C51AB8D2A686",
+            "note" : 36,
+            "tick" : 6236,
+            "velocity" : 88
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "03CF40B1-77C1-45C7-8F21-8DF40A71F16B",
+            "note" : 38,
+            "tick" : 6236,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "C370555E-264E-4D2B-BE9A-5D09C9EECC2C",
+            "note" : 46,
+            "tick" : 6240,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "7C05292E-38F7-4C8F-91F8-6957A42BCE82",
+            "note" : 36,
+            "tick" : 6718,
+            "velocity" : 90
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "719BC047-9EB7-470F-8CC4-6AA231B20519",
+            "note" : 38,
+            "tick" : 6718,
+            "velocity" : 63
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "5A2DB68B-7F00-41DB-AE5D-13F64FBE0E90",
+            "note" : 46,
+            "tick" : 6720,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "E37BC0BB-3288-4C49-A9E2-C7FDF560DD77",
+            "note" : 46,
+            "tick" : 7200,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "316C7179-E70A-48A6-8D59-C6E030C216D3",
+            "note" : 36,
+            "tick" : 7209,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "49F39029-929F-44DB-9E63-E991F83F1840",
+            "note" : 38,
+            "tick" : 7209,
+            "velocity" : 63
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "E24A1490-350B-40D0-B332-B101666DEA35",
+            "note" : 38,
+            "tick" : 7445,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "C77CCD45-0C0F-4486-80C8-ACA920956797",
+            "note" : 38,
+            "tick" : 7482,
+            "velocity" : 51
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "D85F211F-36F0-43FE-8703-3E94F2D0C528",
+            "note" : 38,
+            "tick" : 7517,
+            "velocity" : 46
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "FE9FFC61-52B8-4946-A081-200C2C198519",
+            "note" : 38,
+            "tick" : 7555,
+            "velocity" : 45
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "21DC067F-60AA-400B-8758-1F1CE7510056",
+            "note" : 46,
+            "tick" : 4,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "5A5041BC-8F05-4144-98DC-05B6D29AB66F",
+            "note" : 36,
+            "tick" : 4,
+            "velocity" : 89
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "50D915CF-D95F-4555-8658-C51FF97141DF",
+            "note" : 38,
+            "tick" : 4,
+            "velocity" : 59
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "2DA86983-4C84-4205-8906-7ADB7D745B0B",
+            "note" : 46,
+            "tick" : 480,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "DDF05E4B-A3D5-40F0-A862-D43AC4603FF8",
+            "note" : 36,
+            "tick" : 482,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "B9CB2F5F-A58E-44CA-A697-ACCED7915090",
+            "note" : 38,
+            "tick" : 482,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "65F56989-FB20-4C40-8067-EA07F94FA004",
+            "note" : 36,
+            "tick" : 964,
+            "velocity" : 94
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "42A92E87-AB5E-4A9B-9196-03125EB1447F",
+            "note" : 38,
+            "tick" : 964,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "69CE5323-1651-495B-B21A-3B5E4FD72A94",
+            "note" : 46,
+            "tick" : 964,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "837CA546-8ECC-4A01-8491-86677C8AD3D8",
+            "note" : 46,
+            "tick" : 1440,
+            "velocity" : 26
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "55CB02A7-1C18-4356-95A9-C168CAA3DB5F",
+            "note" : 36,
+            "tick" : 1445,
+            "velocity" : 81
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "F7E8D44F-C23E-4E5D-8866-5A3F0A3D0E1D",
+            "note" : 38,
+            "tick" : 1445,
+            "velocity" : 55
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "40354858-F9DB-468A-BC67-127EB3318332",
+            "note" : 38,
+            "tick" : 1679,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "546BCBAC-1DB7-479D-8EF4-FDBB63F5126E",
+            "note" : 38,
+            "tick" : 1720,
+            "velocity" : 43
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "511A5306-BEB7-47C0-9889-CA8DD60F2A40",
+            "note" : 38,
+            "tick" : 1758,
+            "velocity" : 36
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "C063B70A-4141-4A55-8112-4F091D6104CE",
+            "note" : 38,
+            "tick" : 1794,
+            "velocity" : 37
+          },
+          {
+            "balance" : 0,
+            "duration" : 60,
+            "id" : "FCEDA8D9-7E80-4C92-9A1A-45E8661A0942",
+            "note" : 38,
+            "tick" : 1825,
+            "velocity" : 28
+          }
+        ],
+        "sourceName" : "MAIN B.mid"
+      },
+      "breakPart",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "fillB",
+      {
+        "bars" : 2,
+        "notes" : [
+          {
+            "balance" : 0,
+            "duration" : 20,
+            "id" : "944A5F4C-9DD9-4F77-B912-0A0430C73DC4",
+            "note" : 36,
+            "tick" : 20,
+            "velocity" : 100
+          },
+          {
+            "balance" : 0,
+            "duration" : 20,
+            "id" : "C6328BC6-F793-4BCB-BC69-AE3282CF47B3",
+            "note" : 38,
+            "tick" : 20,
+            "velocity" : 57
+          },
+          {
+            "balance" : 0,
+            "duration" : 20,
+            "id" : "A357EFE8-DF34-4A50-93EF-96C352F23076",
+            "note" : 38,
+            "tick" : 120,
+            "velocity" : 66
+          },
+          {
+            "balance" : 0,
+            "duration" : 20,
+            "id" : "2F2CBE2C-1AC6-4E46-9E4D-F21EA0AF85B6",
+            "note" : 38,
+            "tick" : 240,
+            "velocity" : 73
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "6BD9BB51-00C2-4132-90C2-4248470504FE",
+            "note" : 36,
+            "tick" : 480,
+            "velocity" : 96
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "2EC1426D-4AEF-4BD2-AD1A-3BA43513CB44",
+            "note" : 36,
+            "tick" : 960,
+            "velocity" : 96
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "E5335A64-EC52-4646-99AD-04420BD1E6F5",
+            "note" : 36,
+            "tick" : 1440,
+            "velocity" : 96
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "5795EB0E-8AAD-4E33-BDC3-04CB84BACB83",
+            "note" : 38,
+            "tick" : 480,
+            "velocity" : 63
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "541F2550-BE9C-42E1-8111-D1A512F8C085",
+            "note" : 38,
+            "tick" : 720,
+            "velocity" : 77
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "49CE8DC7-4B5A-4278-B426-7A737E7DC719",
+            "note" : 38,
+            "tick" : 960,
+            "velocity" : 63
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "0A45FAB4-24D0-4FAF-A335-F77BC44E7FEB",
+            "note" : 38,
+            "tick" : 1080,
+            "velocity" : 51
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "099C000C-5158-4F1B-824F-966B11222C20",
+            "note" : 38,
+            "tick" : 1200,
+            "velocity" : 51
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "CB2522FF-C6C4-41E6-BC6C-C157D675BDCC",
+            "note" : 38,
+            "tick" : 1440,
+            "velocity" : 74
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "4929F5F1-9FC3-42CB-A7F5-4EADEF20CEED",
+            "note" : 38,
+            "tick" : 1880,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "7B3E12C4-6ECB-4970-965A-FDF23BAAEF86",
+            "note" : 38,
+            "tick" : 1840,
+            "velocity" : 38
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "D92326F2-B61A-4D48-B980-F398E80E3204",
+            "note" : 38,
+            "tick" : 1800,
+            "velocity" : 48
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "51943460-E22B-45BC-8852-DB49FC032DBE",
+            "note" : 38,
+            "tick" : 1760,
+            "velocity" : 38
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "532BB8E9-776B-4BB5-A7A3-33D2A3B960CA",
+            "note" : 55,
+            "tick" : 1920,
+            "velocity" : 110
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "95EDE818-71DE-4B01-9664-9A12A5704EA3",
+            "note" : 36,
+            "tick" : 1920,
+            "velocity" : 110
+          }
+        ]
+      },
+      "ending",
+      {
+        "bars" : 2,
+        "notes" : [
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "7F81316D-0794-43F3-ABF2-37B8F328DCBA",
+            "note" : 38,
+            "tick" : 0,
+            "velocity" : 33
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "FC1C26CA-2F8D-4714-B7AE-664F3F34D171",
+            "note" : 38,
+            "tick" : 120,
+            "velocity" : 42
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "4CB0BE5B-E858-44F1-92F4-600609E26976",
+            "note" : 38,
+            "tick" : 240,
+            "velocity" : 61
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "B8E1B573-C304-403B-9D65-2BD82ADBF8D5",
+            "note" : 38,
+            "tick" : 480,
+            "velocity" : 39
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "785C0BBF-7D5E-4A6A-A69D-0B186E87AF8C",
+            "note" : 38,
+            "tick" : 600,
+            "velocity" : 43
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "798A33CD-0A90-4B72-840D-53233BC265D3",
+            "note" : 38,
+            "tick" : 720,
+            "velocity" : 62
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "96D641C1-B845-490E-953F-2291FA540DAB",
+            "note" : 38,
+            "tick" : 960,
+            "velocity" : 56
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "205FBDD6-D8B6-4660-88B7-BBBFA32E783A",
+            "note" : 38,
+            "tick" : 1080,
+            "velocity" : 73
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "856036A5-78EC-4566-9586-131B37333CD7",
+            "note" : 38,
+            "tick" : 1200,
+            "velocity" : 77
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "6C20DDF3-25F1-48D6-B1C3-77CAAF02ADB1",
+            "note" : 38,
+            "tick" : 1440,
+            "velocity" : 56
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "4FD32503-7024-4FCC-8703-23F08E0D5C1A",
+            "note" : 38,
+            "tick" : 1680,
+            "velocity" : 65
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "F20D8CAF-7154-4A22-AF54-D747D1DC4667",
+            "note" : 43,
+            "tick" : 1680,
+            "velocity" : 100
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "3EB0D425-044B-47A5-99C2-E60310A6FAEA",
+            "note" : 43,
+            "tick" : 1440,
+            "velocity" : 83
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "7787AD57-B524-4338-93BC-081BAF302A52",
+            "note" : 36,
+            "tick" : 0,
+            "velocity" : 89
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "694EFC77-7B24-4085-B7F4-0E1A8F665BD4",
+            "note" : 36,
+            "tick" : 480,
+            "velocity" : 89
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "9FFF6B32-84CF-4C74-8565-E22A1604AFC4",
+            "note" : 36,
+            "tick" : 960,
+            "velocity" : 94
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "1AC44000-8101-4112-A35D-C8631B8E7EAD",
+            "note" : 36,
+            "tick" : 1440,
+            "velocity" : 84
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "EF45AB7D-310B-4B73-97FD-160F9B635107",
+            "note" : 55,
+            "tick" : 1920,
+            "velocity" : 107
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "F5B32CF2-4559-4DB4-97A0-E67012DD3129",
+            "note" : 36,
+            "tick" : 1920,
+            "velocity" : 106
+          }
+        ]
+      },
+      "intro",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "fillA",
+      {
+        "bars" : 2,
+        "notes" : [
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "7CEADE1F-483F-442E-9C24-2CEA0EF3F98E",
+            "note" : 36,
+            "tick" : 480,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "B36A925F-9FC7-4C96-A762-FC4FB5628BCE",
+            "note" : 36,
+            "tick" : 960,
+            "velocity" : 95
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "C90AC39B-62A0-4B7E-AB8F-1B67995FB1B6",
+            "note" : 36,
+            "tick" : 0,
+            "velocity" : 91
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "746114CC-E3BB-466E-9C2A-DE80B2E8C1F6",
+            "note" : 43,
+            "tick" : 0,
+            "velocity" : 72
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "F0C11327-E1B6-4564-AA7E-F8B0A29BBCA6",
+            "note" : 43,
+            "tick" : 480,
+            "velocity" : 72
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "C26CEF91-8A8B-40C4-8EAB-C0B83849ECA3",
+            "note" : 43,
+            "tick" : 960,
+            "velocity" : 72
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "F64887C0-8D63-4835-A372-6956D99786C2",
+            "note" : 43,
+            "tick" : 1440,
+            "velocity" : 72
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "D65A7D00-017D-4EF9-A612-39EB16FFA082",
+            "note" : 36,
+            "tick" : 1440,
+            "velocity" : 85
+          },
+          {
+            "balance" : 0,
+            "duration" : 480,
+            "id" : "B22301AC-3415-4F83-A786-73ABD018FADD",
+            "note" : 49,
+            "tick" : 1920,
+            "velocity" : 101
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "C9885F0C-F1DE-4408-8004-0641B83AC826",
+            "note" : 38,
+            "tick" : 0,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "91C71857-B518-47AA-8905-1E50990EB8FE",
+            "note" : 38,
+            "tick" : 480,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 120,
+            "id" : "CBD6807E-1360-4FB6-ADFF-8F8C95826C98",
+            "note" : 38,
+            "tick" : 960,
+            "velocity" : 60
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "FC2E1A30-228C-4DFA-A571-7B3BC5C15F61",
+            "note" : 38,
+            "tick" : 1440,
+            "velocity" : 55
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "8C1BE389-1B07-46A3-8136-62F9B0D14996",
+            "note" : 38,
+            "tick" : 1680,
+            "velocity" : 64
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "2FDB2356-8552-4017-BB5E-5AFB9E80D34E",
+            "note" : 38,
+            "tick" : 1720,
+            "velocity" : 59
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "290606EF-9E75-426F-96E2-7372767E3120",
+            "note" : 38,
+            "tick" : 1760,
+            "velocity" : 58
+          },
+          {
+            "balance" : 0,
+            "duration" : 40,
+            "id" : "9C12914D-DEF5-4F6D-BA31-16FEC313DBB9",
+            "note" : 38,
+            "tick" : 1800,
+            "velocity" : 42
+          }
+        ]
+      }
+    ],
+    "percussionKitID" : 1,
+    "percussionPatterns" : [
+      "fillA",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "fillB",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "breakPart",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "intro",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "mainB",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "mainA",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      },
+      "ending",
+      {
+        "bars" : 1,
+        "notes" : [
+
+        ]
+      }
+    ],
+    "tempo" : 95
+  },
+  "format" : "iDrumStyle",
+  "version" : 1
+}
