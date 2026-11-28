@@ -39,8 +39,18 @@
       "sha256" : "d0d2d388e682244426f1d39d1ad41170da760e9db05eadd0359b16d065451b8a",
       "type" : "style",
       "version" : "1.0"
+    },
+    {
+      "description" : "Reggae Style",
+      "downloadURL" : "https://raw.githubusercontent.com/wdghy5sg4y-dotcom/iDrum-Data/main/Reggae.style",
+      "fileSize" : 74399,
+      "id" : "reggae-v1",
+      "name" : "Reggae",
+      "sha256" : "aa55b1bfecd5aee19d61e05e4c8324f818106e969c0c37f474b3a1007d02885b",
+      "type" : "style",
+      "version" : "1.0"
     }
   ],
   "schemaVersion" : 1,
-  "updatedAt" : "2026-11-24T07:54:04Z"
+  "updatedAt" : "2026-11-28T04:08:38Z"
 }
